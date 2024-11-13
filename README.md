@@ -13,34 +13,34 @@ Mi pasión por los datos me ha llevado a desarrollar proyectos y soluciones de a
 Aquí te dejo algunas de las principales herramientas y lenguajes con los que trabajo:
 
 #### Lenguajes de programación:
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png) **Python**
+- <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 - <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.svg) **JavaScript**
-- ![Dart](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dart-logo.png/800px-Dart-logo.png) **Dart**
+- <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+- <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 
 #### Análisis de datos:
-- ![Pandas](https://upload.wikimedia.org/wikipedia/commons/2/21/Pandas_logo.svg) **Pandas**
-- ![Numpy](https://upload.wikimedia.org/wikipedia/commons/0/01/NumPy_logo_2020.svg) **Numpy**
-- ![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_logo.svg) **Matplotlib**
-- ![Seaborn](https://upload.wikimedia.org/wikipedia/commons/e/e7/Seaborn_logo.svg) **Seaborn**
+- <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+- <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+- <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+- <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 
 #### Machine Learning:
-- ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) **Scikit-learn**
-- ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg) **TensorFlow**
-- ![Keras](https://upload.wikimedia.org/wikipedia/commons/4/4e/Keras_logo.png) **Keras**
+- <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+- <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+- <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 
 #### Bases de datos:
-- ![MySQL](https://upload.wikimedia.org/wikipedia/commons/6/67/MySQL_logo.svg) **MySQL**
-- ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/a/a4/Postgresql_elephant.svg) **PostgreSQL**
+- <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+- <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 
 #### Desarrollo web:
-- ![HTML5](https://upload.wikimedia.org/wikipedia/commons/3/3d/HTML5_logo_and_wordmark.svg) **HTML5**
-- ![CSS3](https://upload.wikimedia.org/wikipedia/commons/d/d9/CSS3_logo.svg) **CSS3**
-- ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) **React**
+- <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+- <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+- <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 
 #### Desarrollo móvil:
-- ![Flutter](https://upload.wikimedia.org/wikipedia/commons/1/17/Flutter-logo.png) **Flutter**
-- ![Dart](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dart-logo.png/800px-Dart-logo.png) **Dart**
+- <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+- <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 
 ### 🌱 Aprendizaje continuo
 El mundo de la tecnología está en constante evolución, por lo que siempre estoy aprendiendo y buscando mejorar mis habilidades. Ya sea a través de cursos, tutoriales, proyectos personales o colaboraciones, mi objetivo es nunca dejar de crecer como profesional.
