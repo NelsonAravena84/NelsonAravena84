@@ -1,9 +1,8 @@
 # ¡Hola Mundo! Soy {Nelson Aravena} 👋
 
-
 ![logo (2)](https://github.com/user-attachments/assets/19f50c71-446f-4252-b691-86c92531edd3)
 
-    ![logo (3)](https://github.com/user-attachments/assets/64481b19-d980-4843-b1a5-ef92a4b68857)
+&nbsp;&nbsp;&nbsp;&nbsp;![logo (3)](https://github.com/user-attachments/assets/64481b19-d980-4843-b1a5-ef92a4b68857)
 
 Soy un **programador apasionado** por el aprendizaje continuo, con experiencia en **Data Analytics**, **Data Science**, y **Desarrollo Web**. Me encanta colaborar en proyectos interdisciplinarios donde puedo aplicar mis habilidades para resolver problemas reales.
 
