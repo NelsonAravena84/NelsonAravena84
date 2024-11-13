@@ -1,6 +1,9 @@
 # ¡Hola! Soy [Tu Nombre] 👋
 
-Soy un **programador apasionado** por el aprendizaje continuo, con experiencia en **Data Analytics**, **Data Science**, y **Desarrollo Web y Móvil**. Me encanta colaborar en proyectos interdisciplinarios donde puedo aplicar mis habilidades para resolver problemas reales.
+<div style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); background-color: #f9f9f9; max-width: 600px; margin: 20px auto;">
+    <h3 style="text-align: center; color: #333;">Soy un programador apasionado por el aprendizaje continuo</h3>
+    <p style="font-size: 16px; color: #555;">Siempre buscando nuevos desafíos y oportunidades para crecer. Mi principal área de desempeño se encuentra en el mundo del <strong>Data Analytics</strong> y <strong>Data Science</strong>, pero también tengo experiencia en la <strong>programación web</strong>, lo que me permite abordar proyectos interdisciplinarios que combinan ambas áreas.</p>
+</div>
 
 ### 🚀 Proyectos actuales
 - **Nextura**: Aplicando **análisis de datos** y **programación web** para soluciones innovadoras.
