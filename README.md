@@ -1,6 +1,6 @@
 # ¡Hola Mundo! Soy {Nelson Aravena} 👋
 
-<div style="font-size: 25px; background-color: #f4f4f4; padding: 20px; border-radius: 5px; border: 1px solid #ddd; overflow-x: auto;">
+<div style="font-size: 100px; background-color: #f4f4f4; padding: 20px; border-radius: 5px; border: 1px solid #ddd; overflow-x: auto;">
   <pre><code class="python">
 def saludar():
     print("¡Hola Mundo!")
