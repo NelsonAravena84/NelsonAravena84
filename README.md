@@ -9,6 +9,8 @@ Me apasiona transformar datos en **información valiosa** para la toma de decisi
 - **Nextura**: Un proyecto que busca **aplicar conocimientos de análisis de datos** y **programación web** para ofrecer soluciones innovadoras y mejorar la toma de decisiones basada en datos.
 - **Proyecto de programación móvil**: Un proyecto orientado a la **programación móvil** enfocado en el **sector agrícola**, con el objetivo de crear herramientas tecnológicas que ayuden a optimizar los procesos y recursos en la agricultura.
 
+---
+
 ### 🔧 Mis habilidades y herramientas
 
 Aquí te dejo algunas de las principales herramientas y lenguajes con los que trabajo:
@@ -35,6 +37,7 @@ Aquí te dejo algunas de las principales herramientas y lenguajes con los que tr
     <img align="left" alt="Android Studio" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 </div>
 
+---
 
 ### 📬 ¿Cómo puedes contactarme?
 Si tienes un proyecto interesante o simplemente quieres charlar sobre tecnología y programación, ¡no dudes en contactarme!
