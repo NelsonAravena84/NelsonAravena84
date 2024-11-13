@@ -14,7 +14,7 @@ Aquí te dejo algunas de las principales herramientas y lenguajes con los que tr
 
 #### Lenguajes de programación:
 - ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png) **Python**
-- ![R](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R-logo.svg/800px-R-logo.svg.png) **R**
+- <i class="devicon-r-plain colored"></i>
 - ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.svg) **JavaScript**
 - ![Dart](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dart-logo.png/800px-Dart-logo.png) **Dart**
 
