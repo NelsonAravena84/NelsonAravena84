@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola Mundo! Soy {Nelson Aravena} 👋
 
 <div style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); background-color: #f9f9f9; max-width: 600px; margin: 20px auto;">
     <h3 style="text-align: center; color: #333;">Soy un programador apasionado por el aprendizaje continuo</h3>
