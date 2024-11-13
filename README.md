@@ -1,12 +1,11 @@
 # ¡Hola Mundo! Soy {Nelson Aravena} 👋
 
-<div style="font-size: 100px; background-color: #f4f4f4; padding: 20px; border-radius: 5px; border: 1px solid #ddd; overflow-x: auto;">
+<div style="font-size: 114px; background-color: #f4f4f4; padding: 20px; border-radius: 5px; border: 1px solid #ddd; overflow-x: auto;">
   <pre><code class="python">
 def saludar():
     print("¡Hola Mundo!")
   </code></pre>
 </div>
-
 
 Soy un **programador apasionado** por el aprendizaje continuo, con experiencia en **Data Analytics**, **Data Science**, y **Desarrollo Web**. Me encanta colaborar en proyectos interdisciplinarios donde puedo aplicar mis habilidades para resolver problemas reales.
 
