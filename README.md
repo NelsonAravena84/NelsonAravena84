@@ -35,10 +35,7 @@ Soy un **programador apasionado** por el aprendizaje continuo, con experiencia e
 ---
 
 ### 📬 ¿Cómo puedes contactarme?
-- 📧 Correo: [tuemail@dominio.com]
-- 🌐 Portafolio: [tuportafolio.com] (si tienes uno)
-- 🐦 Twitter: [@TuUsuarioTwitter]
-
+- 📧 Correo: [nelsonea2024@gmail.com]
 ---
 
 ¡Estoy siempre dispuesto a nuevos retos y oportunidades! 🚀
