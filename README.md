@@ -1,5 +1,3 @@
-# ¡Hola Mundo! Soy {Nelson Aravena} 👋
-
 ![logo (3)](https://github.com/user-attachments/assets/64481b19-d980-4843-b1a5-ef92a4b68857)
 ![logo (4)](https://github.com/user-attachments/assets/93046759-b98a-4f69-8f6c-6f7bc59aa9e0)
 
