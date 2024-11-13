@@ -1,15 +1,17 @@
+# ¡Hola Mundo! Soy {Nelson Aravena} 👋
+
 ![logo (3)](https://github.com/user-attachments/assets/64481b19-d980-4843-b1a5-ef92a4b68857)
 ![logo (4)](https://github.com/user-attachments/assets/93046759-b98a-4f69-8f6c-6f7bc59aa9e0)
 
 Soy un **programador apasionado** por el aprendizaje continuo, con experiencia en **Data Analytics**, **Data Science**, y **Desarrollo Web**. Me encanta colaborar en proyectos interdisciplinarios donde puedo aplicar mis habilidades para resolver problemas reales.
 
-### 🚀 Proyectos que estan en proceso: 
+<h3 align="center">🚀 Proyectos que están en proceso:</h3>
 - **Nextura**: Aplicando **análisis de datos** y **programación web** para soluciones innovadoras.
 - **Agricultura 4.0**: Proyecto móvil orientado al **sector agrícola**, creando soluciones tecnológicas para optimizar recursos y procesos.
 
-### 🔧 Lenguajes y Herramientas
+<h3 align="center">🔧 Lenguajes y Herramientas</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
     <img alt="Python" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
     <img alt="R" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
     <img alt="JavaScript" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -32,9 +34,10 @@ Soy un **programador apasionado** por el aprendizaje continuo, con experiencia e
 
 ---
 
-### 📬 ¿Cómo puedes contactarme?
+<h3 align="center">📬 ¿Cómo puedes contactarme?</h3>
 - 📧 Correo: [nelsonea2024@gmail.com]
 
+---
 
 ¡Estoy siempre dispuesto a nuevos retos y oportunidades! 🚀
 
