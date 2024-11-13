@@ -5,7 +5,7 @@ Soy un **programador apasionado por el aprendizaje continuo** y siempre estoy en
 ### 🚀 ¿Qué hago?
 Mi pasión por los datos me ha llevado a desarrollar proyectos y soluciones de análisis de datos que transforman la información en **conocimiento valioso** para la toma de decisiones. Siempre estoy en busca de nuevas herramientas, técnicas y metodologías para mejorar mis habilidades.
 
-🔭 **Actualmente estoy trabajando en**:
+🔭 **Actualmente estoy trabajando en (12 / 11 /2024) **:
 - **Nextura**: Un proyecto que busca **aplicar conocimientos de análisis de datos** y **programación web** para ofrecer soluciones innovadoras y mejorar la toma de decisiones basada en datos.
 - **Proyecto de programación móvil**: Un proyecto orientado a la **programación móvil** enfocado en el **sector agrícola**, con el objetivo de crear herramientas tecnológicas que ayuden a optimizar los procesos y recursos en la agricultura.
 
