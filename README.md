@@ -35,11 +35,6 @@ Aquí te dejo algunas de las principales herramientas y lenguajes con los que tr
     <img align="left" alt="Android Studio" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 </div>
 
-### 🌱 Aprendizaje continuo
-El mundo de la tecnología está en constante evolución, por lo que siempre estoy aprendiendo y buscando mejorar mis habilidades. Ya sea a través de cursos, tutoriales, proyectos personales o colaboraciones, mi objetivo es **nunca dejar de crecer** como profesional.
-
-### 🌍 ¿Por qué me gusta colaborar?
-Para mí, la programación es más que solo escribir código; se trata de **resolver problemas** y **trabajar juntos** para encontrar las mejores soluciones. Me encanta participar en proyectos colaborativos, como **Nextura** y el **proyecto agrícola**, donde puedo compartir conocimientos, aprender de los demás y contribuir a una visión común.
 
 ### 📬 ¿Cómo puedes contactarme?
 Si tienes un proyecto interesante o simplemente quieres charlar sobre tecnología y programación, ¡no dudes en contactarme!
