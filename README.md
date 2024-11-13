@@ -6,8 +6,8 @@
 Soy un **programador apasionado** por el aprendizaje continuo, con experiencia en **Data Analytics**, **Data Science**, y **Desarrollo Web**. Me encanta colaborar en proyectos interdisciplinarios donde puedo aplicar mis habilidades para resolver problemas reales.
 
 <p align="center"><b>🚀 Proyectos que están en proceso:</b></p>
-- **Nextura**: Aplicando **análisis de datos** y **programación web** para soluciones innovadoras.
-- **Agricultura 4.0**: Proyecto móvil orientado al **sector agrícola**, creando soluciones tecnológicas para optimizar recursos y procesos.
+- Nextura: Aplicando **análisis de datos** y **programación web** para soluciones innovadoras.
+- Agricultura 4.0: Proyecto móvil orientado al **sector agrícola**, creando soluciones tecnológicas para optimizar recursos y procesos.
 
 <h3 align="center">🔧 Lenguajes y Herramientas</h3>
 
