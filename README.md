@@ -35,7 +35,7 @@ Aquí te dejo algunas de las principales herramientas y lenguajes con los que tr
     <img align="left" alt="Android Studio" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 </div>
 
-
+---
 ### 🌱 Aprendizaje continuo
 El mundo de la tecnología está en constante evolución, por lo que siempre estoy aprendiendo y buscando mejorar mis habilidades. Ya sea a través de cursos, tutoriales, proyectos personales o colaboraciones, mi objetivo es nunca dejar de crecer como profesional.
 
