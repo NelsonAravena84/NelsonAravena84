@@ -1,16 +1,37 @@
-## Hi there 👋
+# Iconos de Programación en GIF
 
-<!--
-**NelsonAravena84/NelsonAravena84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este archivo README contiene algunos iconos de lenguajes y tecnologías populares en forma de GIF.
 
-Here are some ideas to get you started:
+## Python
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
+_GIF del logo de Python_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## R
+![R](https://upload.wikimedia.org/wikipedia/commons/1/1b/R-logo.svg)  
+_GIF del logo de R_
+
+## JavaScript
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.svg)  
+_GIF del logo de JavaScript_
+
+## Dart
+![Dart](https://upload.wikimedia.org/wikipedia/commons/2/27/Dart-logo.png)  
+_GIF del logo de Dart_
+
+## SQL
+![SQL](https://upload.wikimedia.org/wikipedia/commons/c/c2/SQL-Logo.svg)  
+_GIF del logo de SQL_
+
+## Linux
+![Linux](https://upload.wikimedia.org/wikipedia/commons/e/e4/Tux.svg)  
+_GIF del logo de Linux_
+
+## HTML
+![HTML](https://upload.wikimedia.org/wikipedia/commons/3/3d/HTML5_logo_and_wordmark.svg)  
+_GIF del logo de HTML_
+
+## CSS
+![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d9/CSS3_logo.svg)  
+_GIF del logo de CSS_
+
+---
