@@ -14,7 +14,7 @@ Aquí te dejo algunas de las principales herramientas y lenguajes con los que tr
 
 #### Lenguajes de programación:
 - <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-- <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+- <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 - <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 - <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 
@@ -41,6 +41,7 @@ Aquí te dejo algunas de las principales herramientas y lenguajes con los que tr
 #### Desarrollo móvil:
 - <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 - <img align ="left" alt = "Java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+<br />
 
 ### 🌱 Aprendizaje continuo
 El mundo de la tecnología está en constante evolución, por lo que siempre estoy aprendiendo y buscando mejorar mis habilidades. Ya sea a través de cursos, tutoriales, proyectos personales o colaboraciones, mi objetivo es nunca dejar de crecer como profesional.
