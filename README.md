@@ -1,5 +1,8 @@
 # ¡Hola Mundo! Soy {Nelson Aravena} 👋
-![image](https://github.com/user-attachments/assets/65b71b37-c6f0-46f8-9586-18d1a25d5409)
+
+`def saludar():
+    print("¡Hola desde el bloque de código!")`
+
 
 
 
