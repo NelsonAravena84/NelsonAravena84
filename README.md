@@ -9,6 +9,10 @@ Mi pasión por los datos me ha llevado a desarrollar proyectos y soluciones de a
 - **Nextura**: Un proyecto que busca **aplicar conocimientos de análisis de datos** y **programación web** para ofrecer soluciones innovadoras y mejorar la toma de decisiones basada en datos.
 - **Proyecto de programación móvil**: Un proyecto orientado a la **programación móvil** enfocado en el **sector agrícola**, con el objetivo de crear herramientas tecnológicas que ayuden a optimizar los procesos y recursos en la agricultura.
 
+  
+### 🔧 Mis habilidades y herramientas
+
+Aquí te dejo algunas de las principales herramientas y lenguajes con los que trabajo:
 <div style="display: flex; flex-wrap: wrap;">
     <img align="left" alt="Python" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
     <img align="left" alt="R" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
