@@ -1,6 +1,6 @@
 # ¡Hola Mundo! Soy {Nelson Aravena} 👋
 
-Soy un **programador apasionado** por el aprendizaje continuo, con experiencia en **Data Analytics**, **Data Science**, y **Desarrollo Web y Móvil**. Me encanta colaborar en proyectos interdisciplinarios donde puedo aplicar mis habilidades para resolver problemas reales.
+Soy un **programador apasionado** por el aprendizaje continuo, con experiencia en **Data Analytics**, **Data Science**, y **Desarrollo Web**. Me encanta colaborar en proyectos interdisciplinarios donde puedo aplicar mis habilidades para resolver problemas reales.
 
 ### 🚀 Proyectos actuales
 - **Nextura**: Aplicando **análisis de datos** y **programación web** para soluciones innovadoras.
@@ -26,7 +26,6 @@ Soy un **programador apasionado** por el aprendizaje continuo, con experiencia e
     <img alt="CSS3" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     <img alt="Tailwind CSS" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     <img alt="React" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img alt="Flutter" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
     <img alt="Android Studio" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 </div>
 
