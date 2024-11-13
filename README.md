@@ -6,7 +6,7 @@ Soy un **programador apasionado** por el aprendizaje continuo, con experiencia e
 - **Nextura**: Aplicando **análisis de datos** y **programación web** para soluciones innovadoras.
 - **Agricultura 4.0**: Proyecto móvil orientado al **sector agrícola**, creando soluciones tecnológicas para optimizar recursos y procesos.
 
-### 🔧 Mis habilidades
+### 🔧 Lenguajes y Herramientas
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <img alt="Python" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
